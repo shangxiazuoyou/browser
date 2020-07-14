@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App -->
-    <string name="app_name">FOSS Browser</string>
-    <string name="app_ok">OK</string>
-    <string name="app_cancel">Cancel</string>
-    <string name="list_empty">List is empty</string>
-    <string name="album_title_bookmarks">Bookmarks</string>
-    <string name="album_title_history">History</string>
-    <string name="album_title_home">Home</string>
-    <string name="album_title_tab">Opened Tabs</string>
-    <string name="album_title_files">Files</string>
-    <string name="search_hint">Search</string>
-    <string name="color_red">Red</string>
-    <string name="color_pink">Pink</string>
-    <string name="color_purple">Purple</string>
-    <string name="color_blue">Blue</string>
-    <string name="color_teal">Teal</string>
-    <string name="color_green">Green</string>
-    <string name="color_lime">Lime</string>
-    <string name="color_yellow">Yellow</string>
-    <string name="color_orange">Orange</string>
-    <string name="color_brown">Brown</string>
-    <string name="color_grey">Grey</string>
+    <string name="app_name">FOSS浏览器</string>
+    <string name="app_ok">确定</string>
+    <string name="app_cancel">取消</string>
+    <string name="list_empty">列表暂无数据</string>
+    <string name="album_title_bookmarks">书签</string>
+    <string name="album_title_history">历史</string>
+    <string name="album_title_home">主页</string>
+    <string name="album_title_tab">打开标签</string>
+    <string name="album_title_files">文件</string>
+    <string name="search_hint">搜索</string>
+    <string name="color_red">红色</string>
+    <string name="color_pink">粉色</string>
+    <string name="color_purple">紫色</string>
+    <string name="color_blue">蓝色</string>
+    <string name="color_teal">蓝绿色</string>
+    <string name="color_green">绿色</string>
+    <string name="color_lime">绿黄色</string>
+    <string name="color_yellow">黄色</string>
+    <string name="color_orange">橘色</string>
+    <string name="color_brown">棕色</string>
+    <string name="color_grey">灰色</string>
     <!-- Menu -->
-    <string name="main_menu_tabPreview">Open tab preview</string>
-    <string name="main_menu_new_tab">New tab (background)</string>
-    <string name="main_menu_new_tabOpen">New tab (foreground)</string>
-    <string name="main_omnibox_input_hint">Search or type URL</string>
-    <string name="menu_open_with">Open link with …</string>
-    <string name="menu_quit">Quit</string>
-    <string name="menu_openFav">Open Favorite</string>
-    <string name="menu_delete">Delete</string>
-    <string name="menu_edit">Edit</string>
-    <string name="menu_closeTab">Close tab</string>
-    <string name="menu_download">Open downloads</string>
-    <string name="menu_fav">Save as favorite</string>
-    <string name="menu_sc">Shortcut on home screen</string>
-    <string name="menu_sort">Sort by …</string>
-    <string name="menu_filter">Filter by …</string>
-    <string name="menu_share_link">Share link</string>
-    <string name="menu_save_home">Save at Home</string>
-    <string name="menu_save_bookmark">Save as bookmark</string>
-    <string name="menu_save_as">Save as …</string>
-    <string name="menu_save_pdf">Save as PDF</string>
-    <string name="menu_shareClipboard">Copy to clipboard</string>
-    <string name="menu_other_searchSite">Search on site</string>
-    <string name="menu_other_info">About \"FOSS Browser\"</string>
-    <string name="menu_other_help">Help</string>
+    <string name="main_menu_tabPreview">打开标签页预览</string>
+    <string name="main_menu_new_tab">新标签（后台）</string>
+    <string name="main_menu_new_tabOpen">新标签(前台)</string>
+    <string name="main_omnibox_input_hint">搜索或键入URL</string>
+    <string name="menu_open_with">用其他应用打开链接</string>
+    <string name="menu_quit">退出</string>
+    <string name="menu_openFav">打开收藏夹</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_edit">编辑</string>
+    <string name="menu_closeTab">关闭标签</string>
+    <string name="menu_download">打开下载</string>
+    <string name="menu_fav">另存为收藏</string>
+    <string name="menu_sc">主页的快捷方式</string>
+    <string name="menu_sort">排序方式…</string>
+    <string name="menu_filter">过滤方式…</string>
+    <string name="menu_share_link">分享链接</string>
+    <string name="menu_save_home">保存到主页</string>
+    <string name="menu_save_bookmark">另存为书签</string>
+    <string name="menu_save_as">另存为…</string>
+    <string name="menu_save_pdf">另存为PDF</string>
+    <string name="menu_shareClipboard">复制到粘贴板</string>
+    <string name="menu_other_searchSite">站内搜索</string>
+    <string name="menu_other_info">关于 \"FOSS 浏览器\"</string>
+    <string name="menu_other_help">帮助</string>
     <!-- Dialog -->
-    <string name="dialog_title_hint">Title:</string>
-    <string name="dialog_extension_hint">Extension (for example: \".jpg\"):</string>
-    <string name="dialog_sign_in_username">Username</string>
-    <string name="dialog_sign_in_password">Password</string>
-    <string name="dialog_title_download">Download the file?</string>
-    <string name="dialog_content_resubmission">Resubmit your data?</string>
-    <string name="dialog_content_ssl_error">The certificate of the site is not trusted. Proceed anyway?</string>
-    <string name="dialog_sortName">Sort by name</string>
-    <string name="dialog_sortIcon">Sort by icon</string>
-    <string name="dialog_sortDate">Sort by date</string>
+    <string name="dialog_title_hint">标题:</string>
+    <string name="dialog_extension_hint">扩展 (例如: \".jpg\"):</string>
+    <string name="dialog_sign_in_username">用户名</string>
+    <string name="dialog_sign_in_password">密码</string>
+    <string name="dialog_title_download">下载此文件?</string>
+    <string name="dialog_content_resubmission">重新提交您的数据?</string>
+    <string name="dialog_content_ssl_error">该站点的证书不受信任。 仍要继续?</string>
+    <string name="dialog_sortName">按名称排序</string>
+    <string name="dialog_sortIcon">按图标排序</string>
+    <string name="dialog_sortDate">按日期排序</string>
     <!-- Settings -->
-    <string name="setting_label">Settings</string>
+    <string name="setting_label">设置</string>
     <!-- browser setting -->
-    <string name="setting_title_browser">Browser Settings</string>
-    <string name="setting_title_clear_control">Data Control</string>
-    <string name="setting_title_start_control">Start Control</string>
-    <string name="setting_summary_clear_control">Clear your browser data or decide what data will be cleared when you leave the application.</string>
-    <string name="setting_summary_start_control">Decide which components of FOSS browser will be enabled on start.</string>
-    <string name="setting_title_search_engine">Search Engine</string>
-    <string name="setting_summary_search_engine">Here you can choose your preferred search engine or set a custom one.</string>
+    <string name="setting_title_browser">浏览器设置</string>
+    <string name="setting_title_clear_control">数据控制</string>
+    <string name="setting_title_start_control">启动控制</string>
+    <string name="setting_summary_clear_control">清除浏览器数据或决定离开应用程序时将清除哪些数据。</string>
+    <string name="setting_summary_start_control">确定将在启动时启用FOSS浏览器的哪些组件。</string>
+    <string name="setting_title_search_engine">搜索引擎</string>
+    <string name="setting_summary_search_engine">在这里，您可以选择自己喜欢的搜索引擎或设置自定义搜索引擎。</string>
     <string name="setting_summary_search_engine_google">Google</string>
     <string name="setting_summary_search_engine_duckduckgo">DuckDuckGo</string>
     <string name="setting_summary_search_engine_startpage">StartPage</string>
@@ -77,187 +77,187 @@
     <string name="setting_summary_search_engine_searx">Searx</string>
     <string name="setting_summary_search_engine_qwant">Qwant</string>
     <string name="setting_summary_search_engine_ecosia">Ecosia</string>
-    <string name="setting_title_inverted">Inverted colors</string>
-    <string name="setting_summary_inverted">If checked, content will be rendered in a inverted grey scale mode. This is a kind of \"night mode\".</string>
-    <string name="setting_title_font">Font size</string>
-    <string name="setting_summary_font">Change the font size for displaying websites.</string>
-    <string name="setting_title_remote">Remote content</string>
-    <string name="setting_summary_remote">Enable remote content, which is not directly from the website you are visiting. Disabling this is more secure, faster and saves data volume. But some content will not be displayed anymore.</string>
-    <string name="setting_title_save_data">Request \'Save Data\'</string>
-    <string name="setting_summary_save_data">Tell websites that you would prefer to save data. Supported websites will load faster.</string>
+    <string name="setting_title_inverted">反转颜色</string>
+    <string name="setting_summary_inverted">如果选中，内容将以反转灰度模式呈现。 这是一种“夜间模式”。</string>
+    <string name="setting_title_font">字体大小</string>
+    <string name="setting_summary_font">更改用于显示网站的字体大小。</string>
+    <string name="setting_title_remote">远程内容</string>
+    <string name="setting_summary_remote">启用远程内容，该内容不直接来自您正在访问的网站。禁用此功能更安全，更快，并节省了数据量。但是某些内容将不再显示。</string>
+    <string name="setting_title_save_data">请求“保存数据”</string>
+    <string name="setting_summary_save_data">告诉网站您希望保存数据，支持的网站将加载得更快。</string>
     <!-- browser start -->
-    <string name="setting_title_images">Images</string>
-    <string name="setting_summary_images">Enable Network images. Disabling could be useful to save mobile data and to load websites faster.</string>
+    <string name="setting_title_images">图片</string>
+    <string name="setting_summary_images">启用网络映像，禁用对于保存移动数据和更快地加载网站很有用。</string>
     <string name="setting_title_cookie">Cookies</string>
-    <string name="setting_summary_cookie_delete">If enabled, all cookies will be deleted. Also the Cookies of trusted websites.</string>
-    <string name="setting_summary_cookie">Enable Cookies. Cookies are small text files, which are stored on your device. Websites use them for example to store user settings (for example search settings). But they could also be used to collect personal user data. Third party cookies (they collect user data for advertising) are always disabled.</string>
-    <string name="setting_title_whitelistCookie">Cookie whitelist</string>
-    <string name="setting_title_whitelistRemote">Remote whitelist</string>
+    <string name="setting_summary_cookie_delete">如果启用，将删除所有cookie。也是受信任网站的Cookie。</string>
+    <string name="setting_summary_cookie">启用Cookies。Cookies是小型文本文件，存储在您的设备上。网站使用它们来存储用户设置（例如搜索设置）。但是它们也可以用于收集个人用户数据。第三方cookie（它们收集用于广告的用户数据）始终处于禁用状态。</string>
+    <string name="setting_title_whitelistCookie">Cookie白名单</string>
+    <string name="setting_title_whitelistRemote">远程白名单</string>
     <string name="setting_title_javascript">JavaScript</string>
-    <string name="setting_summary_javascript">Enable JavaScript. Many websites need JavaScript for their functionality (menus, loading and displaying images, …). But they are also a risk and can be used for attacks.</string>
-    <string name="setting_title_whitelistJS">JavaScript whitelist</string>
+    <string name="setting_summary_javascript">启用JavaScript。 许多网站都需要JavaScript才能实现其功能（菜单，加载和显示图像等）。但是它们也是一种风险，可以用于攻击。</string>
+    <string name="setting_title_whitelistJS">JavaScript白名单</string>
     <string name="setting_title_adblock">AdBlock</string>
-    <string name="setting_summary_adblock">Enable AdBlock to block annoying ads. Sites also load faster when enabled.</string>
-    <string name="setting_title_whitelist">AdBlock whitelist</string>
-    <string name="setting_title_location">Location</string>
-    <string name="setting_summary_location">Allow websites to access your location. Some websites (like Google maps for navigation) need this enabled.</string>
-    <string name="setting_title_history">History</string>
-    <string name="setting_summary_history">Save the history of visited websites.</string>
+    <string name="setting_summary_adblock">启用AdBlock阻止令人讨厌的广告。启用后，网站加载速度也更快。</string>
+    <string name="setting_title_whitelist">AdBlock白名单</string>
+    <string name="setting_title_location">定位</string>
+    <string name="setting_summary_location">允许网站访问您的位置。某些网站（例如用于导航的Google地图）需要启用此功能。</string>
+    <string name="setting_title_history">历史</string>
+    <string name="setting_summary_history">保存访问过的网站的历史记录。</string>
     <!-- browser clear -->
-    <string name="data_summary">All files will be exported to the \"Android/data/de.baumann.browser/files/browser_backup/\" directory of your sd-card. This directory will be DELETED, if you uninstall \"FOSS Browser\". So make a backup regularly on a save place.</string>
-    <string name="clear_title_quit">Clear on application exit</string>
-    <string name="clear_summary_quit">Every time you quit \"FOSS Browser\" all above checked data will be deleted.</string>
-    <string name="clear_title_cache">Clear Cache</string>
-    <string name="clear_title_cookie">Clear Cookies</string>
-    <string name="clear_title_history">Clear History</string>
-    <string name="clear_title_indexedDB">Clear \"indexed databases\" and \"local webview storage\"</string>
-    <string name="clear_title_deleteDatabase">Delete database</string>
-    <string name="clear_summary_deleteDatabase">Delete the whole database (Startpage, bookmarks, history and all whitelists).</string>
+    <string name="data_summary">所有文件都将导出到SD卡的“Android/data/de.baumann.browser/files/browser_backup/”目录。如果您卸载“FOSS浏览器”，则此目录将被删除。因此，请定期在保存位置进行备份。</string>
+    <string name="clear_title_quit">在应用程序退出时清除</string>
+    <string name="clear_summary_quit">每次退出“FOSS浏览器”时，以上所有已检查的数据将被删除。</string>
+    <string name="clear_title_cache">清除缓存</string>
+    <string name="clear_title_cookie">清除Cookies</string>
+    <string name="clear_title_history">清除历史记录</string>
+    <string name="clear_title_indexedDB">清除“索引数据库”和“本地Webview存储”</string>
+    <string name="clear_title_deleteDatabase">删除数据库</string>
+    <string name="clear_summary_deleteDatabase">删除整个数据库（起始页，书签，历史记录和所有白名单）。</string>
     <!-- App setting -->
-    <string name="setting_title_app">App Settings</string>
-    <string name="setting_title_ui">Behavior/UI</string>
-    <string name="setting_title_data">Backup</string>
-    <string name="setting_summary_ui">Change the behavior and ui of the app to suit your preferences.</string>
-    <string name="setting_summary_data">Import and export several app data (whitelists, bookmarks).</string>
-    <string name="setting_filter">Bookmark filter</string>
-    <string name="setting_filter_summary">To show the filter dialog long press on the bookmark icon in the overview. Decide which filters you will use.</string>
-    <string name="setting_title_fav">Favorite</string>
-    <string name="setting_summary_fav">Here you can change the default website which loads on start of \"FOSS Browser\". Enter \"about:blank\" to get an emty start site.</string>
-    <string name="setting_title_searchEngine">Custom search engine</string>
-    <string name="setting_summary_searchEngine">Here you can enter a custom search URL. Also choose \"Custom search engine\" as search provider.</string>
-    <string name="setting_title_userAgent">Custom user agent</string>
-    <string name="setting_summary_userAgent">Here you can enter a custom user agent. Let empty to use default one.</string>
+    <string name="setting_title_app">应用设置</string>
+    <string name="setting_title_ui">行为/界面</string>
+    <string name="setting_title_data">备份</string>
+    <string name="setting_summary_ui">更改应用程序的行为和用户界面以适合您的偏好。</string>
+    <string name="setting_summary_data">导入和导出多个应用程序数据（白名单，书签）。</string>
+    <string name="setting_filter">书签过滤器</string>
+    <string name="setting_filter_summary">要显示过滤器对话框，请长按概述中的书签图标，确定要使用的过滤器。</string>
+    <string name="setting_title_fav">喜好</string>
+    <string name="setting_summary_fav">在这里，您可以更改在“FOSS 浏览器”启动时加载的默认网站。输入“about:blank”以获取一个空的启动站点。</string>
+    <string name="setting_title_searchEngine">自定义搜索引擎</string>
+    <string name="setting_summary_searchEngine">您可以在此处输入自定义搜索URL。另外，选择“自定义搜索引擎”作为搜索提供程序。</string>
+    <string name="setting_title_userAgent">自定义User Agent</string>
+    <string name="setting_summary_userAgent">您可以在此处输入自定义用户代理，留空以使用默认值之一。</string>
     <!-- App behavior -->
-    <string name="setting_title_hideToolbar">Hide toolbar</string>
-    <string name="setting_summary_hide">Use the whole screen when scrolling through websites. If you press the back button you will leave fullscreen mode.</string>
-    <string name="setting_theme">Theme</string>
-    <string name="setting_theme_summary">Set the app theme.</string>
-    <string name="setting_theme_system">System theme</string>
-    <string name="setting_theme_light">Light theme</string>
-    <string name="setting_theme_dark">Dark theme</string>
-    <string name="setting_title_theme">UI</string>
-    <string name="setting_title_behavior">Behavior</string>
-    <string name="setting_summary_toolbarShow">Pressing back will make the toolbar visible, before going back in history.</string>
-    <string name="setting_title_toolbarShow">First toolbar</string>
-    <string name="setting_title_nav">Navigation button</string>
-    <string name="setting_title_nav_pos">Position</string>
-    <string name="setting_summary_nav_pos">Decide where the \"Navigation Button\" will be placed.</string>
-    <string name="setting_summary_nav_pos_right">Right</string>
-    <string name="setting_summary_nav_pos_left">Left</string>
-    <string name="setting_summary_nav_pos_center">Center</string>
-    <string name="setting_summary_nav_pos_null">Never show</string>
-    <string name="setting_summary_tab">What should be shown at the start of the \"Overview\"?</string>
-    <string name="setting_title_confirm_exit">Confirm browser exit</string>
-    <string name="setting_summary_confirm_exit">Confirmation dialog when closing browser.</string>
-    <string name="setting_title_confirm_tab_close">Confirm tab close</string>
-    <string name="setting_summary_confirm_tab_close">Confirmation dialog when closing a tab.</string>
-    <string name="setting_overView">Overview</string>
-    <string name="setting_overView_onStart_title">Show on start</string>
-    <string name="setting_overView_onStart_summary">Open the \"Overview\" on every app start.</string>
-    <string name="setting_gestures">Gestures</string>
-    <string name="setting_gestures_use_title">Use gestures</string>
-    <string name="setting_gestures_use_summary">Use gestures on the toolbar and the \"Navigation button\".</string>
-    <string name="setting_title_reopenLastTab">Reopen last tab</string>
-    <string name="setting_summary_reopenLastTab">Reopen a new tab when the last tab is closed instead of exiting the browser.</string>
+    <string name="setting_title_hideToolbar">隐藏工具栏</string>
+    <string name="setting_summary_hide">在网站上滚动时使用整个屏幕。如果按返回按钮，则将退出全屏模式。</string>
+    <string name="setting_theme">主题</string>
+    <string name="setting_theme_summary">设置应用主题</string>
+    <string name="setting_theme_system">系统主题</string>
+    <string name="setting_theme_light">浅色主题</string>
+    <string name="setting_theme_dark">黑暗主题</string>
+    <string name="setting_title_theme">界面</string>
+    <string name="setting_title_behavior">行为</string>
+    <string name="setting_summary_toolbarShow">在返回历史记录之前，按返回将使工具栏可见。</string>
+    <string name="setting_title_toolbarShow">第一个工具栏</string>
+    <string name="setting_title_nav">导航按钮</string>
+    <string name="setting_title_nav_pos">位置</string>
+    <string name="setting_summary_nav_pos">确定将放置“导航按钮”的位置。</string>
+    <string name="setting_summary_nav_pos_right">右边</string>
+    <string name="setting_summary_nav_pos_left">左边</string>
+    <string name="setting_summary_nav_pos_center">中央</string>
+    <string name="setting_summary_nav_pos_null">永不显示</string>
+    <string name="setting_summary_tab">在“概述”的开头应显示什么？</string>
+    <string name="setting_title_confirm_exit">确认退出浏览器</string>
+    <string name="setting_summary_confirm_exit">关闭浏览器时的确认对话框。</string>
+    <string name="setting_title_confirm_tab_close">确认标签页关闭</string>
+    <string name="setting_summary_confirm_tab_close">关闭选项卡时的确认对话框。</string>
+    <string name="setting_overView">概述</string>
+    <string name="setting_overView_onStart_title">开始显示</string>
+    <string name="setting_overView_onStart_summary">在每个应用启动时打开“概述”。</string>
+    <string name="setting_gestures">手势</string>
+    <string name="setting_gestures_use_title">使用手势</string>
+    <string name="setting_gestures_use_summary">使用工具栏上的手势和“导航按钮”。</string>
+    <string name="setting_title_reopenLastTab">重新打开最后一个标签</string>
+    <string name="setting_summary_reopenLastTab">当最后一个标签页关闭时，请重新打开新标签页，而不是退出浏览器。</string>
     <!-- gestures -->
-    <string name="setting_title_toolbar">Toolbar</string>
-    <string name="setting_gesture_up">Swipe up</string>
-    <string name="setting_gesture_down">Swipe down</string>
-    <string name="setting_gesture_left">Swipe left</string>
-    <string name="setting_gesture_right">Swipe right</string>
-    <string name="setting_gesture_01">Nothing</string>
-    <string name="setting_gesture_02">Forward in history</string>
-    <string name="setting_gesture_03">Back in history</string>
-    <string name="setting_gesture_04">Scroll to top</string>
-    <string name="setting_gesture_05">Scroll to bottom</string>
-    <string name="setting_gesture_06">Switch to left tab</string>
-    <string name="setting_gesture_07">Switch to right tab</string>
-    <string name="setting_gesture_08">Show overview</string>
-    <string name="setting_gesture_09">Open new tab</string>
-    <string name="setting_gesture_10">Close tab</string>
+    <string name="setting_title_toolbar">工具栏</string>
+    <string name="setting_gesture_up">向上滑动</string>
+    <string name="setting_gesture_down">向下滑动</string>
+    <string name="setting_gesture_left">向左滑动</string>
+    <string name="setting_gesture_right">向右滑动</string>
+    <string name="setting_gesture_01">无</string>
+    <string name="setting_gesture_02">前进</string>
+    <string name="setting_gesture_03">后退</string>
+    <string name="setting_gesture_04">滚动到顶部</string>
+    <string name="setting_gesture_05">滚动到底部</string>
+    <string name="setting_gesture_06">切换到左侧标签</string>
+    <string name="setting_gesture_07">切换到右侧标签</string>
+    <string name="setting_gesture_08">显示概述</string>
+    <string name="setting_gesture_09">打开新标签页</string>
+    <string name="setting_gesture_10">关闭标签页</string>
     <!-- Data -->
-    <string name="setting_title_export_bookmarks">Export bookmarks as HTML-file</string>
-    <string name="setting_title_import_bookmarks">Import bookmarks</string>
-    <string name="setting_title_export_appData">Export app data</string>
-    <string name="setting_title_import_appData">Import app data</string>
-    <string name="setting_summary_export_appData">Export whole database and your personal settings.</string>
-    <string name="title_appData">App data</string>
-    <string name="hint_database">This will delete current data. Proceed?</string>
+    <string name="setting_title_export_bookmarks">将书签导出为HTML文件</string>
+    <string name="setting_title_import_bookmarks">导入书签</string>
+    <string name="setting_title_export_appData">导出应用数据</string>
+    <string name="setting_title_import_appData">导入应用数据</string>
+    <string name="setting_summary_export_appData">导出整个数据库和您的个人设置。</string>
+    <string name="title_appData">应用数据</string>
+    <string name="hint_database">这将删除当前数据，继续？</string>
     <!-- Others setting -->
-    <string name="setting_title_others">Others</string>
-    <string name="setting_title_appSettings">App settings</string>
-    <string name="setting_summary_appSettings">Open the system app settings for \"FOSS Browser\". There you can, depending on your Android version grant permissions, clear the app data and so on.</string>
-    <string name="setting_title_community">Contributing</string>
+    <string name="setting_title_others">其他</string>
+    <string name="setting_title_appSettings">应用设置</string>
+    <string name="setting_summary_appSettings">打开“FOSS浏览器”的系统应用程序设置。在这里，您可以根据Android版本的授予权限清除应用程序数据，依此类推。</string>
+    <string name="setting_title_community">贡献</string>
     <!-- Toast -->
-    <string name="toast_add_to_home_successful">Successfully added to Home</string>
-    <string name="toast_add_to_home_failed">Failed to add to Home</string>
-    <string name="toast_add_whitelist_successful">Successfully added Domain</string>
-    <string name="toast_already_exist_in_home">Already exist in home</string>
-    <string name="toast_copy_successful">Successfully copied</string>
-    <string name="toast_delete_successful">Successfully deleted</string>
-    <string name="toast_domain_already_exists">Domain already exists</string>
-    <string name="toast_export_successful">Exported as:&#160;</string>
-    <string name="toast_export_failed">Failed to export</string>
-    <string name="toast_import_successful">Imported count:&#160;</string>
-    <string name="toast_import_failed">Failed to import</string>
-    <string name="toast_input_empty">You haven\'t input anything</string>
-    <string name="toast_invalid_domain">Invalid domain</string>
-    <string name="toast_load_error">Can\'t load this URL</string>
-    <string name="toast_new_tab_successful">Successfully opened in a new tab</string>
-    <string name="toast_share_failed">Can\'t share this page</string>
-    <string name="toast_start_download">Starting download</string>
-    <string name="toast_wait_a_minute">Please wait for a moment</string>
-    <string name="toast_webview_forward">Can\'t load next site</string>
-    <string name="toast_permission_sdCard">\"FOSS Browser\" needs the permission to \"read and write on your storage\". This is needed to download files, taking screenshots and making backups of your data.</string>
-    <string name="toast_permission_loc">\"FOSS Browser\" needs the permission to \"access your location\". This is requested from some websites for example when they offer some kind of navigation.</string>
-    <string name="toast_restart">You must restart \"FOSS Browser\" to apply changes. Close now?</string>
-    <string name="toast_quit">Do you want to quit \"FOSS Browser\"?</string>
-    <string name="toast_close_tab">Do you want to close current tab?</string>
-    <string name="toast_downloadComplete">Download complete. Open file manager?</string>
-    <string name="toast_unsecured">Website uses an unsecured connection (\"http\"). Try a secure connection (\"https\")?</string>
-    <string name="toast_backup">Backup data? This will overwrite the old backup.</string>
-    <string name="toast_fav">Successfully set as favorite.</string>
+    <string name="toast_add_to_home_successful">成功添加到首页</string>
+    <string name="toast_add_to_home_failed">无法添加到首页</string>
+    <string name="toast_add_whitelist_successful">成功添加</string>
+    <string name="toast_already_exist_in_home">已存在</string>
+    <string name="toast_copy_successful">复制成功</string>
+    <string name="toast_delete_successful">删除成功</string>
+    <string name="toast_domain_already_exists">已存在</string>
+    <string name="toast_export_successful">导出为：&#160;</string>
+    <string name="toast_export_failed">导出失败</string>
+    <string name="toast_import_successful">导入数量：&#160;</string>
+    <string name="toast_import_failed">导入失败</string>
+    <string name="toast_input_empty">您什么都没输入</string>
+    <string name="toast_invalid_domain">无效域名</string>
+    <string name="toast_load_error">无法加载此URL</string>
+    <string name="toast_new_tab_successful">在新标签页中成功打开</string>
+    <string name="toast_share_failed">无法分享此页面</string>
+    <string name="toast_start_download">开始下载</string>
+    <string name="toast_wait_a_minute">请稍等</string>
+    <string name="toast_webview_forward">无法加载下一个网站</string>
+    <string name="toast_permission_sdCard">“FOSS浏览器”需要具有“在您的存储设备上读写”的权限。这是下载文件，拍摄屏幕截图和备份数据所需的。</string>
+    <string name="toast_permission_loc">“FOSS浏览器”需要获得“访问您的位置”的权限。例如，当某些网站提供某种导航时，这是一些网站所要求的。</string>
+    <string name="toast_restart">您必须重新启动“FOSS浏览器”才能应用更改。现在关闭吗</string>
+    <string name="toast_quit">您要退出“FOSS浏览器”吗？</string>
+    <string name="toast_close_tab">您要关闭当前标签页吗？</string>
+    <string name="toast_downloadComplete">下载完成，马上打开文件管理器？</string>
+    <string name="toast_unsecured">网站使用不安全的连接（“http”）。尝试安全连接（“https”）？</string>
+    <string name="toast_backup">备份数据？ 这将覆盖旧的备份。</string>
+    <string name="toast_fav">成功设置为收藏</string>
     <!-- Whitelist -->
-    <string name="whitelist_menu_clear">Clear</string>
-    <string name="whitelist_edit_hint">Domain</string>
-    <string name="whitelist_add">Add</string>
+    <string name="whitelist_menu_clear">清除</string>
+    <string name="whitelist_edit_hint">域名</string>
+    <string name="whitelist_add">添加</string>
     <!-- Dialog help -->
-    <string name="dialogHelp_tipTitle">Tips</string>
-    <string name="dialogHelp_tipText">        &lt;b&gt;Menus and dialogs&lt;/b&gt;&lt;br&gt;
-        All menus and dialogs are opened at the bottom of the screen. If the dialog is large you will first see only the upper part. If you swipe it up, the rest will get visible. You can close them by pressing the back button, swiping them down or by clicking outside&lt;br&gt;&lt;br&gt;
+    <string name="dialogHelp_tipTitle">提示</string>
+    <string name="dialogHelp_tipText">        &lt;b&gt;菜单和对话框&lt;/b&gt;&lt;br&gt;
+        所有菜单和对话框都在屏幕底部打开。 如果对话框很大，您将首先仅看到上部。 如果向上滑动，其余的将可见。 您可以通过按“后退”按钮，向下滑动或在外部单击来关闭它们&lt;br&gt;&lt;br&gt;
 
-        &lt;b&gt;Long press&lt;/b&gt;&lt;br&gt;
-        If you long press the menu icon or the \"Navigation button\", the \"Fast toggle dialog\" will show. If you long press the \"Bookmark icon\", the \"Filter dialog\" will show.
+        &lt;b&gt;长按&lt;/b&gt;&lt;br&gt;
+        如果长按菜单图标或“导航按钮”，则将显示“快速切换对话框”。 如果长按“书签图标”，则会显示“过滤器对话框”。
     </string>
-    <string name="dialogHelp_filterText">        You can tag your bookmarks with filters. In this way you can group your bookmarks. You can open the filter dialog by long pressing the bookmark icon. If you activate an entry a dialog will appear, where you can edit the name of the filter.
+    <string name="dialogHelp_filterText">        您可以使用过滤器标记书签。 这样，您可以将书签分组。 您可以通过长按书签图标来打开过滤器对话框。 如果激活条目，将出现一个对话框，您可以在其中编辑过滤器的名称。
     </string>
     <!-- Dialog changelog -->
-    <string name="changelog_dialog">        Your language isn\'t supported yet? You want to translate FOSS Browser? Or make improvements to existing translations? Feel free to join us on Crowdin: https://crowdin.com/project/foss-browser.&lt;br&gt;&lt;br&gt;
+    <string name="changelog_dialog">        还不支持您的语言？ 您要翻译FOSS浏览器吗？ 还是对现有翻译进行改进？ 随时加入我们的Crowdin网站：https：//crowdin.com/project/foss-browser。&lt;br&gt;&lt;br&gt;
 
-        &lt;b&gt;On the following sites you have access to all important information about \"FOSS Browser\". Please read also the help dialog within the app.&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+        &lt;b&gt;在以下站点上，您可以访问有关“FOSS浏览器”的所有重要信息。 请同时阅读应用内的帮助对话框。&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 
-        \u25AA &lt;i&gt;Project site:&lt;/i&gt; https://github.com/scoute-dich/Browser&lt;br&gt;
-        \u25AA &lt;i&gt;Changelog:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/CHANGELOG.md&lt;br&gt;
-        \u25AA &lt;i&gt;FAQ:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/FAQs.md&lt;br&gt;
-        \u25AA &lt;i&gt;License:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/LICENSE.md&lt;br&gt;
-        \u25AA &lt;i&gt;Privacy:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/PRIVACY.md
+        \u25AA &lt;i&gt;项目站点:&lt;/i&gt; https://github.com/scoute-dich/Browser&lt;br&gt;
+        \u25AA &lt;i&gt;变更日志:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/CHANGELOG.md&lt;br&gt;
+        \u25AA &lt;i&gt;常问问题:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/FAQs.md&lt;br&gt;
+        \u25AA &lt;i&gt;许可证:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/LICENSE.md&lt;br&gt;
+        \u25AA &lt;i&gt;隐私协议:&lt;/i&gt; https://github.com/scoute-dich/browser/blob/master/PRIVACY.md
 
     </string>
     <!-- License changelog -->
-    <string name="cont_dialog">        &lt;i&gt;First I would like to thank all people who contributed in any way on this project. They submitted issues, translated or helped in any other way. On following sites you can become a active member of this great community:&lt;/i&gt;&lt;br&gt;&lt;br&gt;
+    <string name="cont_dialog">        &lt;i&gt;首先，我要感谢所有为该项目做出任何贡献的人们。 他们以其他任何方式提交，翻译或提供帮助的问题。 在以下站点上，您可以成为这个很棒的社区的活跃成员：&lt;/i&gt;&lt;br&gt;&lt;br&gt;
 
         &lt;b&gt;Crowdin:&lt;/b&gt;&lt;br&gt;
-        Crowdin is an online plattform to translate applications in other languages. A big thanks to all translators. You can also help.&lt;br&gt;
+        Crowdin是一个在线平台，可以翻译其他语言的应用程序。非常感谢所有翻译。您也可以提供帮助。&lt;br&gt;
         &lt;i&gt;https://crowdin.com/project/foss-browser&lt;/i&gt;&lt;br&gt;&lt;br&gt;
 
         &lt;b&gt;XDA-thread:&lt;/b&gt;&lt;br&gt;
-        XDA is a great community for developers and smartphone enthusiasts. Here you can report issues, ask for new features and everything other related to \"FOSS Browser\".&lt;br&gt;
+        XDA是开发人员和智能手机爱好者的绝佳社区。 在这里，您可以报告问题，询问新功能以及与“FOSS浏览器”相关的所有其他信息。&lt;br&gt;
         &lt;i&gt;https://forum.xda-developers.com/android/apps-games/app-browser-t3500091&lt;/i&gt;&lt;br&gt;&lt;br&gt;
 
         &lt;b&gt;Github:&lt;/b&gt;&lt;br&gt;
-        On Github you can see the source code of \"FOSS Browser\". This is the more technical solution: open issues, ask for new features or even help developing or translating.&lt;br&gt;
+        在Github上，您可以看到“FOSS浏览器”的源代码。 这是更具技术性的解决方案：未解决的问题，要求新功能甚至帮助开发或翻译。&lt;br&gt;
         &lt;i&gt;https://github.com/scoute-dich/browser&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
 
-        &lt;i&gt;Following people contributed at this project. If I have forgotten anybody, please contact me:&lt;/i&gt;
+        &lt;i&gt;以下人员对此项目做出了贡献。如果我忘记了任何人，请与我联系：&lt;/i&gt;
     </string>
 </resources>
